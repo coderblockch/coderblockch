@@ -4,6 +4,9 @@
 
 I transitioned into software development driven by a genuine passion for building things that work. I learn by doing: every project below is functional and, where possible, live.
 
+- 🌱 Currently deepening my **React** skills as part of my software development training at **Lyfter**.
+- 🎯 Focused on shipping polished, real-world projects that demonstrate my growth.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -73,6 +76,8 @@ An interactive number-guessing game with score tracking and game-state managemen
 ## 📈 GitHub Stats
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderblockch&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![David's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderblockch&layout=compact&theme=default&hide_border=true)
 
 ---
 
