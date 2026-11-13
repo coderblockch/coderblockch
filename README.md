@@ -28,7 +28,7 @@ I transitioned into software development driven by a genuine passion for buildin
 ### 💰 Finance Tracker
 Multi-user personal finance web app: register and sign in, record income and expenses by category, and see your balance, recent activity, and monthly/category summaries with a chart. Server-rendered with Flask and Jinja2, SQLite via SQLAlchemy, hashed passwords, and **19 pytest tests**.
 **Stack:** Python, Flask, SQLite (SQLAlchemy), pytest, HTML/CSS, Chart.js
-🔗 [Code](https://github.com/coderblockch/finance-tracker-flask)
+🔗 [Live Demo](https://finance-tracker-kln2.onrender.com) · [Code](https://github.com/coderblockch/finance-tracker-flask)
 
 ---
 
