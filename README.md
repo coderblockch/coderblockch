@@ -33,8 +33,8 @@ Multi-user personal finance web app: register and sign in, record income and exp
 ---
 
 ### 🏥 SacHealth OS
-Full-stack HealthTech prototype: a rule-based clinical triage engine (CDSS) plus a live bed-management dashboard, designed to reduce ER bottlenecks. Built with a graceful-degradation UI that stays usable even if the backend is down.
-**Stack:** Python, FastAPI, SQLite (SQLModel), JavaScript, Tailwind CSS
+Full-stack HealthTech prototype: a rule-based clinical triage engine (CDSS) plus a live bed-management dashboard, designed to reduce ER bottlenecks. Built with a graceful-degradation UI that stays usable even if the backend is down. Backed by **27 pytest tests**.
+**Stack:** Python, FastAPI, SQLite (SQLModel), pytest, JavaScript, Tailwind CSS
 🔗 [Code](https://github.com/coderblockch/sachealth-os)
 
 ---
