@@ -4,6 +4,8 @@
 
 I transitioned into software development driven by a genuine passion for building things that work. I learn by doing: every project below is functional and, where possible, live.
 
+📄 **[Download my resume (PDF)](https://portfolio-bay-nine-59.vercel.app/cv.pdf)** · 💼 [LinkedIn](https://www.linkedin.com/in/jdavidjimenez)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -99,6 +101,8 @@ My bootcamp coursework: Python fundamentals, OOP, data structures (stack, deque,
 - 📧 [jdavidjimenezq@gmail.com](mailto:jdavidjimenezq@gmail.com)
 - 🌐 Portfolio: [portfolio-bay-nine-59.vercel.app](https://portfolio-bay-nine-59.vercel.app)
 - 💻 GitHub: [@coderblockch](https://github.com/coderblockch)
+- 💼 LinkedIn: [linkedin.com/in/jdavidjimenez](https://www.linkedin.com/in/jdavidjimenez)
+- 📄 Resume: [Download PDF](https://portfolio-bay-nine-59.vercel.app/cv.pdf)
 - 📍 Sacramento, CA — open to on-site, hybrid, and remote roles
 
 ---
