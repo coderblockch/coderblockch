@@ -61,8 +61,8 @@ Live weather data via the Open-Meteo API. Search any city for real-time conditio
 ---
 
 ### 🪙 QuipuCash
-One of my first front-end projects: a static crypto news and prices page built with semantic HTML and CSS.
-**Stack:** HTML/CSS
+One of my first front-end projects: a crypto news and prices page with a price table and an interactive Chart.js bar chart.
+**Stack:** JavaScript, Chart.js, HTML/CSS
 🔗 [Live Demo](https://coderblockch.github.io/QuipuCash/) · [Code](https://github.com/coderblockch/QuipuCash)
 
 ---
