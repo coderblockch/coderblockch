@@ -25,19 +25,22 @@ I transitioned into software development driven by a genuine passion for buildin
 
 ---
 
-## 🚀 Projects
+## ⭐ Featured: SacHealth OS
+
+🔗 **[Live Demo](https://sachealth-os.onrender.com)** · [API Docs](https://sachealth-os.onrender.com/docs) · [Code](https://github.com/coderblockch/sachealth-os)
+
+Full-stack HealthTech prototype: a rule-based clinical triage engine (CDSS) plus a bed-management dashboard, designed around ER bottlenecks. Staff sign in (bcrypt-hashed passwords, JWT) to update beds; one FastAPI service serves both the REST API and the Tailwind/JavaScript dashboard. **43 pytest tests**, GitHub Actions CI and CodeQL on every pull request.
+**Stack:** Python, FastAPI, SQLModel (SQLite, PostgreSQL-ready), JWT, pytest, JavaScript, Tailwind CSS, Render
+**Try it:** `demo@sachealth.dev` / `sachealth-demo` (public demo account, fake data). The free instance may take up to a minute to wake up.
+
+---
+
+## 🚀 More Projects
 
 ### 💰 Finance Tracker
 Multi-user personal finance web app: register and sign in, record income and expenses by category, and see your balance, recent activity, and monthly/category summaries with a chart. Server-rendered with Flask and Jinja2, SQLite via SQLAlchemy, hashed passwords, and **19 pytest tests**.
 **Stack:** Python, Flask, SQLite (SQLAlchemy), pytest, HTML/CSS, Chart.js
 🔗 [Live Demo](https://finance-tracker-kln2.onrender.com) · [Code](https://github.com/coderblockch/finance-tracker-flask)
-
----
-
-### 🏥 SacHealth OS
-Full-stack HealthTech prototype: a rule-based clinical triage engine (CDSS) plus a live bed-management dashboard, designed to reduce ER bottlenecks. Built with a graceful-degradation UI that stays usable even if the backend is down. Backed by **27 pytest tests**.
-**Stack:** Python, FastAPI, SQLite (SQLModel), pytest, JavaScript, Tailwind CSS
-🔗 [Code](https://github.com/coderblockch/sachealth-os)
 
 ---
 
