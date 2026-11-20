@@ -1,6 +1,8 @@
 # Hi, I'm David 👋
 
-**Junior Full-Stack Developer** (Python/Flask · JavaScript/React) based in Sacramento, CA — building real, deployed projects while actively seeking my first developer role.
+**Junior Full-Stack Developer** (Python · FastAPI/Flask · JavaScript/React · SQL databases) based in Sacramento, CA — building real, deployed, tested projects while actively seeking my first developer role.
+
+**What I focus on:** REST APIs with FastAPI and Flask · relational data modeling with SQLModel/SQLAlchemy (SQLite, MySQL, PostgreSQL-ready) · auth (bcrypt + JWT, sessions) · automated tests with pytest and CI on GitHub Actions · React/Next.js and vanilla JS front ends.
 
 I transitioned into software development driven by a genuine passion for building things that work. I learn by doing: every project below is functional and, where possible, live.
 
@@ -14,7 +16,11 @@ I transitioned into software development driven by a genuine passion for buildin
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy%20%2F%20SQLModel-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -58,13 +64,6 @@ Live cryptocurrency price dashboard with user accounts (Firebase Auth), price-hi
 
 ---
 
-### 🌤️ Weather App
-Live weather data via the Open-Meteo API. Search any city for real-time conditions, with a °C/°F toggle.
-**Stack:** JavaScript, REST API, HTML/CSS
-🔗 [Live Demo](https://coderblockch.github.io/weather-app/) · [Code](https://github.com/coderblockch/weather-app)
-
----
-
 ### 🪙 QuipuCash
 One of my first front-end projects: a crypto news and prices page with a price table and an interactive Chart.js bar chart.
 **Stack:** JavaScript, Chart.js, HTML/CSS
@@ -72,17 +71,10 @@ One of my first front-end projects: a crypto news and prices page with a price t
 
 ---
 
-### ✅ To-Do List
-A clean task manager with add, complete, and delete functionality. Persistent state with localStorage.
-**Stack:** JavaScript, HTML/CSS
-🔗 [Live Demo](https://coderblockch.github.io/todo-list/) · [Code](https://github.com/coderblockch/todo-list)
-
----
-
-### 🎯 Guess My Number
-An interactive number-guessing game (1–100) with too-high/too-low hints, an attempt counter, input validation, and a reset button.
-**Stack:** JavaScript, HTML/CSS
-🔗 [Live Demo](https://coderblockch.github.io/guess-my-number/) · [Code](https://github.com/coderblockch/guess-my-number)
+### 🧩 JavaScript Mini Projects
+Three vanilla JavaScript apps in one repo: a to-do list with `localStorage`, a weather app using the Open-Meteo REST API (°C/°F toggle), and a guess-my-number game with validation and hints.
+**Stack:** JavaScript, Fetch API, HTML/CSS, GitHub Pages
+🔗 [Live Demos](https://coderblockch.github.io/javascript-mini-projects/) · [Code](https://github.com/coderblockch/javascript-mini-projects)
 
 ---
 
